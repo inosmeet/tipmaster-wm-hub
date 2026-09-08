@@ -1,0 +1,23 @@
+name: rebuild-wm-hub
+on:
+  schedule:
+    - cron: "17 4 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Rebuild page from live sitemaps
+        run: SITE_URL="https://inosmeet.github.io/tipmaster-wm-hub/" python3 build.py
+      - name: Commit if changed
+        run: |
+          git config user.name "wm-hub-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add index.html data/wm-hub.json
+          git diff --cached --quiet || (git commit -m "chore: nightly rebuild from sitemaps" && git push)

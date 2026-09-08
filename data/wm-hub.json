@@ -1,0 +1,664 @@
+{
+  "generated_at": "2026-09-08T11:34:55+00:00",
+  "source_sitemaps": {
+    "de": "https://tipmaster.net/de/ratgeber/sitemap.xml",
+    "en": "https://tipmaster.net/en/guide/sitemap.xml",
+    "en-us": "https://tipmaster.net/en-us/guide/sitemap.xml"
+  },
+  "stats": {
+    "urls_scanned": 151,
+    "world_cup_articles": 52,
+    "excluded_referral_pages": 4,
+    "fetched_ok": 52,
+    "newest_de_modification": "2026-06-23T05:18:15+07:00"
+  },
+  "final": {
+    "date": "2026-07-19",
+    "date_de": "19. Juli 2026",
+    "venue": "MetLife Stadium, New Jersey",
+    "home": "Spanien",
+    "away": "Argentinien",
+    "score": "1:0 n.V.",
+    "scorer": "Ferran Torres (106.)",
+    "source": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/final"
+  },
+  "next_tournament": {
+    "name": "FIFA Frauen-WM 2027",
+    "host": "Brasilien",
+    "start": "2027-06-24",
+    "start_de": "24. Juni 2027",
+    "end_de": "25. Juli 2027",
+    "venue": "Maracanã, Rio de Janeiro",
+    "source": "https://www.fifa.com/en/tournaments/womens/womensworldcup/brazil-2027"
+  },
+  "sections": [
+    {
+      "key": "finale",
+      "label": "Finale"
+    },
+    {
+      "key": "halbfinale",
+      "label": "Halbfinale"
+    },
+    {
+      "key": "viertelfinale",
+      "label": "Viertelfinale"
+    },
+    {
+      "key": "achtelfinale",
+      "label": "Achtelfinale"
+    },
+    {
+      "key": "sechzehntelfinale",
+      "label": "Sechzehntelfinale (Runde der 32)"
+    },
+    {
+      "key": "turnierbaum",
+      "label": "Turnierbaum, Spielplan & Bracket"
+    },
+    {
+      "key": "vergleiche",
+      "label": "Andere WM-Spiele im Vergleich"
+    },
+    {
+      "key": "tippspiel",
+      "label": "Tippspiel, Prognosen & Strategie"
+    },
+    {
+      "key": "hintergrund",
+      "label": "Regeln & Hintergrund"
+    }
+  ],
+  "articles": [
+    {
+      "url": "https://tipmaster.net/de/ratgeber/wm-2026-achtelfinale-tippen/",
+      "lang": "de",
+      "lastmod": "2026-06-23T05:18:15+07:00",
+      "title": "Achtelfinale tippen: WM 2026 Runde der 16 richtig prognostizieren",
+      "description": "",
+      "date_modified": "2026-06-23T05:18:15+07:00",
+      "date_published": "2026-06-23T00:00:00Z",
+      "fetched": true,
+      "section": "achtelfinale"
+    },
+    {
+      "url": "https://tipmaster.net/de/ratgeber/comunio-wm-2026/",
+      "lang": "de",
+      "lastmod": "2026-06-16T04:44:22+07:00",
+      "title": "Comunio WM 2026: So funktioniert der WM-Manager Comunio 2026",
+      "description": "",
+      "date_modified": "2026-06-16T04:44:22+07:00",
+      "date_published": "2026-06-07T00:00:00Z",
+      "fetched": true,
+      "section": "vergleiche"
+    },
+    {
+      "url": "https://tipmaster.net/de/ratgeber/videospiele-wm-2026/",
+      "lang": "de",
+      "lastmod": "2026-06-16T04:44:22+07:00",
+      "title": "Die besten Videospiele zur WM 2026",
+      "description": "",
+      "date_modified": "2026-06-16T04:44:22+07:00",
+      "date_published": "2026-05-25T00:00:00Z",
+      "fetched": true,
+      "section": "vergleiche"
+    },
+    {
+      "url": "https://tipmaster.net/de/ratgeber/fantamondiale-2026-italiens-fantasy-wm/",
+      "lang": "de",
+      "lastmod": "2026-06-16T04:44:22+07:00",
+      "title": "Fantamondiale 2026: Was hinter Italiens Fantasy-WM-Phänomen steckt",
+      "description": "",
+      "date_modified": "2026-06-16T04:44:22+07:00",
+      "date_published": "2026-05-25T00:00:00Z",
+      "fetched": true,
+      "section": "vergleiche"
+    },
+    {
+      "url": "https://tipmaster.net/de/ratgeber/fantasy-manager-spiele-wm-2026/",
+      "lang": "de",
+      "lastmod": "2026-06-19T11:45:34+07:00",
+      "title": "Fantasy Manager zur WM 2026: FIFA, Sorare, Futmondo im Test (gratis & Pro)",
+      "description": "",
+      "date_modified": "2026-06-19T11:45:34+07:00",
+      "date_published": "2026-05-14T00:00:00Z",
+      "fetched": true,
+      "section": "vergleiche"
+    },
+    {
+      "url": "https://tipmaster.net/de/ratgeber/wm-2026-finale-tippen/",
+      "lang": "de",
+      "lastmod": "2026-06-23T05:18:15+07:00",
+      "title": "Finale tippen: Das WM-2026-Endspiel richtig prognostizieren",
+      "description": "",
+      "date_modified": "2026-06-23T05:18:15+07:00",
+      "date_published": "2026-06-23T00:00:00Z",
+      "fetched": true,
+      "section": "finale"
+    },
+    {
+      "url": "https://tipmaster.net/de/ratgeber/wm-2026-halbfinale-tippen/",
+      "lang": "de",
+      "lastmod": "2026-06-23T05:18:15+07:00",
+      "title": "Halbfinale tippen: WM 2026 Runde der 4 richtig prognostizieren",
+      "description": "",
+      "date_modified": "2026-06-23T05:18:15+07:00",
+      "date_published": "2026-06-23T00:00:00Z",
+      "fetched": true,
+      "section": "halbfinale"
+    },
+    {
+      "url": "https://tipmaster.net/de/ratgeber/kickbase-wm-2026/",
+      "lang": "de",
+      "lastmod": "2026-06-16T04:44:22+07:00",
+      "title": "Kickbase WM 2026: Gibt es einen WM-Modus?",
+      "description": "",
+      "date_modified": "2026-06-16T04:44:22+07:00",
+      "date_published": "2026-05-26T00:00:00Z",
+      "fetched": true,
+      "section": "vergleiche"
+    },
+    {
+      "url": "https://tipmaster.net/de/ratgeber/kicker-managerspiel-wm-2026/",
+      "lang": "de",
+      "lastmod": "2026-06-16T04:44:22+07:00",
+      "title": "kicker-Managerspiel zur WM 2026: Regeln, Kader, Anmeldung",
+      "description": "",
+      "date_modified": "2026-06-16T04:44:22+07:00",
+      "date_published": "2026-05-28T00:00:00Z",
+      "fetched": true,
+      "section": "vergleiche"
+    },
+    {
+      "url": "https://tipmaster.net/de/ratgeber/kicktipp-wm-2026/",
+      "lang": "de",
+      "lastmod": "2026-06-16T04:44:22+07:00",
+      "title": "Kicktipp WM 2026: So funktioniert das kostenlose Tippspiel",
+      "description": "",
+      "date_modified": "2026-06-16T04:44:22+07:00",
+      "date_published": "2026-05-26T00:00:00Z",
+      "fetched": true,
+      "section": "vergleiche"
+    },
+    {
+      "url": "https://tipmaster.net/de/ratgeber/neue-regeln-wm-2026/",
+      "lang": "de",
+      "lastmod": "2026-06-16T04:44:22+07:00",
+      "title": "Neue Regeln zur WM 2026: Das ändert sich – und was es fürs Tippen bedeutet",
+      "description": "",
+      "date_modified": "2026-06-16T04:44:22+07:00",
+      "date_published": "2026-05-31T00:00:00Z",
+      "fetched": true,
+      "section": "hintergrund"
+    },
+    {
+      "url": "https://tipmaster.net/de/ratgeber/wm-2026-sammelprodukte-panini/",
+      "lang": "de",
+      "lastmod": "2026-06-16T04:44:22+07:00",
+      "title": "Panini WM 2026: das letzte Album einer Ära",
+      "description": "",
+      "date_modified": "2026-06-16T04:44:22+07:00",
+      "date_published": "2026-05-14T00:00:00Z",
+      "fetched": true,
+      "section": "hintergrund"
+    },
+    {
+      "url": "https://tipmaster.net/de/ratgeber/wm-2026-sechzehntelfinale-tippen/",
+      "lang": "de",
+      "lastmod": "2026-06-23T05:18:15+07:00",
+      "title": "Sechzehntelfinale tippen: WM 2026 Runde der 32 richtig prognostizieren",
+      "description": "",
+      "date_modified": "2026-06-23T05:18:15+07:00",
+      "date_published": "2026-06-23T00:00:00Z",
+      "fetched": true,
+      "section": "sechzehntelfinale"
+    },
+    {
+      "url": "https://tipmaster.net/de/ratgeber/tippspiele-wm-2026-vergleich/",
+      "lang": "de",
+      "lastmod": "2026-06-19T11:45:34+07:00",
+      "title": "Tippspiele zur WM 2026: Der große Plattform-Vergleich",
+      "description": "",
+      "date_modified": "2026-06-19T11:45:34+07:00",
+      "date_published": "2026-05-14T00:00:00Z",
+      "fetched": true,
+      "section": "tippspiel"
+    },
+    {
+      "url": "https://tipmaster.net/de/ratgeber/wm-2026-viertelfinale-tippen/",
+      "lang": "de",
+      "lastmod": "2026-06-23T05:18:15+07:00",
+      "title": "Viertelfinale tippen: WM 2026 Runde der 8 richtig prognostizieren",
+      "description": "",
+      "date_modified": "2026-06-23T05:18:15+07:00",
+      "date_published": "2026-06-23T00:00:00Z",
+      "fetched": true,
+      "section": "viertelfinale"
+    },
+    {
+      "url": "https://tipmaster.net/de/ratgeber/wm-2026-spielplan-tippspiel/",
+      "lang": "de",
+      "lastmod": "2026-06-16T04:44:22+07:00",
+      "title": "WM 2026 Spielplan zum Tippen: alle 104 Spiele, direkt mittippen",
+      "description": "",
+      "date_modified": "2026-06-16T04:44:22+07:00",
+      "date_published": "2026-06-07T00:00:00Z",
+      "fetched": true,
+      "section": "turnierbaum"
+    },
+    {
+      "url": "https://tipmaster.net/de/ratgeber/wm-2026-tippen/",
+      "lang": "de",
+      "lastmod": "2026-06-23T05:18:15+07:00",
+      "title": "WM 2026 tippen: Prognosen Runde für Runde, vom Sechzehntelfinale bis zum Finale",
+      "description": "",
+      "date_modified": "2026-06-23T05:18:15+07:00",
+      "date_published": "2026-06-23T00:00:00Z",
+      "fetched": true,
+      "section": "tippspiel"
+    },
+    {
+      "url": "https://tipmaster.net/de/ratgeber/wm-2026-tippspiel-zum-ausdrucken/",
+      "lang": "de",
+      "lastmod": "2026-06-16T04:44:22+07:00",
+      "title": "WM 2026 Tippspiel zum Ausdrucken: Tippübersicht auf Papier",
+      "description": "",
+      "date_modified": "2026-06-16T04:44:22+07:00",
+      "date_published": "2026-06-13T00:00:00Z",
+      "fetched": true,
+      "section": "tippspiel"
+    },
+    {
+      "url": "https://tipmaster.net/de/ratgeber/wm-2026-turnierbaum-pdf/",
+      "lang": "de",
+      "lastmod": "2026-06-23T04:14:13+07:00",
+      "title": "WM 2026 Turnierbaum als PDF: K.-o.-Baum zum Ausdrucken & Ausfüllen",
+      "description": "",
+      "date_modified": "2026-06-23T04:14:13+07:00",
+      "date_published": "2026-06-23T00:00:00Z",
+      "fetched": true,
+      "section": "turnierbaum"
+    },
+    {
+      "url": "https://tipmaster.net/de/ratgeber/wm-2026-turnierbaum-drucken/",
+      "lang": "de",
+      "lastmod": "2026-06-23T05:18:15+07:00",
+      "title": "WM 2026 Turnierbaum zum Ausdrucken: K.-o.-Baum für Pinnwand & Büro",
+      "description": "",
+      "date_modified": "2026-06-23T05:18:15+07:00",
+      "date_published": "2026-06-23T00:00:00Z",
+      "fetched": true,
+      "section": "turnierbaum"
+    },
+    {
+      "url": "https://tipmaster.net/de/ratgeber/wm-2026-turnierbaum/",
+      "lang": "de",
+      "lastmod": "2026-06-23T05:18:15+07:00",
+      "title": "WM 2026 Turnierbaum: K.-o.-Baum von der Runde der 32 bis zum Finale",
+      "description": "",
+      "date_modified": "2026-06-23T05:18:15+07:00",
+      "date_published": "2026-06-23T00:00:00Z",
+      "fetched": true,
+      "section": "turnierbaum"
+    },
+    {
+      "url": "https://tipmaster.net/de/ratgeber/wm-tippspiel-2026-kostenlos/",
+      "lang": "de",
+      "lastmod": "2026-06-16T04:44:22+07:00",
+      "title": "WM Tippspiel 2026 kostenlos: die besten Gratis-Tipprunden im Überblick",
+      "description": "",
+      "date_modified": "2026-06-16T04:44:22+07:00",
+      "date_published": "2026-05-31T00:00:00Z",
+      "fetched": true,
+      "section": "tippspiel"
+    },
+    {
+      "url": "https://tipmaster.net/de/ratgeber/wm-tippspiel-mit-freunden/",
+      "lang": "de",
+      "lastmod": "2026-06-16T04:44:22+07:00",
+      "title": "WM Tippspiel 2026 mit Freunden: gemeinsam tippen, kostenlos",
+      "description": "",
+      "date_modified": "2026-06-16T04:44:22+07:00",
+      "date_published": "2026-06-07T00:00:00Z",
+      "fetched": true,
+      "section": "tippspiel"
+    },
+    {
+      "url": "https://tipmaster.net/de/ratgeber/wm-tippspiel-2026/",
+      "lang": "de",
+      "lastmod": "2026-06-16T04:44:22+07:00",
+      "title": "WM Tippspiel 2026: das kostenlose Tippspiel zur WM",
+      "description": "",
+      "date_modified": "2026-06-16T04:44:22+07:00",
+      "date_published": "2026-06-13T00:00:00Z",
+      "fetched": true,
+      "section": "tippspiel"
+    },
+    {
+      "url": "https://tipmaster.net/de/ratgeber/wm-tippspiel-2026-tipps-strategie/",
+      "lang": "de",
+      "lastmod": "2026-06-16T04:44:22+07:00",
+      "title": "WM-Tippspiel 2026: Tipps & Strategie fürs Tippen ums Duell",
+      "description": "",
+      "date_modified": "2026-06-16T04:44:22+07:00",
+      "date_published": "2026-06-07T00:00:00Z",
+      "fetched": true,
+      "section": "tippspiel"
+    },
+    {
+      "url": "https://tipmaster.net/de/ratgeber/wm-tippspiel-app-2026/",
+      "lang": "de",
+      "lastmod": "2026-06-16T04:44:22+07:00",
+      "title": "WM-Tippspiel App 2026: brauchst du überhaupt eine? Der Browser reicht",
+      "description": "",
+      "date_modified": "2026-06-16T04:44:22+07:00",
+      "date_published": "2026-06-07T00:00:00Z",
+      "fetched": true,
+      "section": "tippspiel"
+    },
+    {
+      "url": "https://tipmaster.net/de/ratgeber/wm-tippspiel-buero-unternehmen-2026/",
+      "lang": "de",
+      "lastmod": "2026-06-16T04:44:22+07:00",
+      "title": "WM-Tippspiel fürs Büro & Unternehmen 2026: kostenlos, ohne Aufwand",
+      "description": "",
+      "date_modified": "2026-06-16T04:44:22+07:00",
+      "date_published": "2026-06-07T00:00:00Z",
+      "fetched": true,
+      "section": "tippspiel"
+    },
+    {
+      "url": "https://tipmaster.net/en/guide/best-fantasy-manager-games-world-cup-2026/",
+      "lang": "en",
+      "lastmod": "2026-06-19T11:45:34+07:00",
+      "title": "Best Fantasy Manager Games for the FIFA World Cup 2026 — US Edition (DraftKings/FanDuel Crossover)",
+      "description": "",
+      "date_modified": "2026-06-19T11:45:34+07:00",
+      "date_published": "2026-05-14T00:00:00Z",
+      "fetched": true,
+      "section": "vergleiche"
+    },
+    {
+      "url": "https://tipmaster.net/en/guide/best-prediction-games-world-cup-2026/",
+      "lang": "en",
+      "lastmod": "2026-06-19T11:45:34+07:00",
+      "title": "Best Prediction Games for the FIFA World Cup 2026 — US Bracket Edition",
+      "description": "",
+      "date_modified": "2026-06-19T11:45:34+07:00",
+      "date_published": "2026-05-14T00:00:00Z",
+      "fetched": true,
+      "section": "vergleiche"
+    },
+    {
+      "url": "https://tipmaster.net/en/guide/world-cup-2026-collectibles-panini/",
+      "lang": "en",
+      "lastmod": "2026-08-12T22:30:11+08:00",
+      "title": "World Cup 2026 Collectibles: Panini Album Guide for US Collectors (Host Country)",
+      "description": "",
+      "date_modified": "2026-06-16T04:44:22+07:00",
+      "date_published": "2026-05-14T00:00:00Z",
+      "fetched": true,
+      "section": "hintergrund"
+    },
+    {
+      "url": "https://tipmaster.net/en/guide/world-cup-2026-free-prediction-game/",
+      "lang": "en",
+      "lastmod": "2026-06-16T04:44:22+07:00",
+      "title": "World Cup 2026 Free Prediction Game — pick a nation, tip every match",
+      "description": "",
+      "date_modified": "2026-06-16T04:44:22+07:00",
+      "date_published": "2026-06-08T00:00:00Z",
+      "fetched": true,
+      "section": "tippspiel"
+    },
+    {
+      "url": "https://tipmaster.net/en/guide/world-cup-2026-prediction-app/",
+      "lang": "en",
+      "lastmod": "2026-06-16T04:44:22+07:00",
+      "title": "World Cup 2026 prediction app: do you even need one?",
+      "description": "",
+      "date_modified": "2026-06-16T04:44:22+07:00",
+      "date_published": "2026-06-07T00:00:00Z",
+      "fetched": true,
+      "section": "tippspiel"
+    },
+    {
+      "url": "https://tipmaster.net/en/guide/world-cup-2026-prediction-game-office/",
+      "lang": "en",
+      "lastmod": "2026-06-16T04:44:22+07:00",
+      "title": "World Cup 2026 prediction game for the office: free, no hassle",
+      "description": "",
+      "date_modified": "2026-06-16T04:44:22+07:00",
+      "date_published": "2026-06-07T00:00:00Z",
+      "fetched": true,
+      "section": "tippspiel"
+    },
+    {
+      "url": "https://tipmaster.net/en/guide/world-cup-2026-prediction-game-with-friends/",
+      "lang": "en",
+      "lastmod": "2026-06-16T04:44:22+07:00",
+      "title": "World Cup 2026 prediction game with friends: play together, free",
+      "description": "",
+      "date_modified": "2026-06-16T04:44:22+07:00",
+      "date_published": "2026-06-07T00:00:00Z",
+      "fetched": true,
+      "section": "tippspiel"
+    },
+    {
+      "url": "https://tipmaster.net/en/guide/world-cup-2026-prediction-tips/",
+      "lang": "en",
+      "lastmod": "2026-06-16T04:44:22+07:00",
+      "title": "World Cup 2026 prediction tips: strategy for winning the duel",
+      "description": "",
+      "date_modified": "2026-06-16T04:44:22+07:00",
+      "date_published": "2026-06-07T00:00:00Z",
+      "fetched": true,
+      "section": "tippspiel"
+    },
+    {
+      "url": "https://tipmaster.net/en/guide/world-cup-2026-schedule-to-predict/",
+      "lang": "en",
+      "lastmod": "2026-06-16T04:44:22+07:00",
+      "title": "World Cup 2026 schedule to predict: all 104 matches, predict along live",
+      "description": "",
+      "date_modified": "2026-06-16T04:44:22+07:00",
+      "date_published": "2026-06-07T00:00:00Z",
+      "fetched": true,
+      "section": "turnierbaum"
+    },
+    {
+      "url": "https://tipmaster.net/en-us/guide/best-fantasy-manager-games-world-cup-2026/",
+      "lang": "en-us",
+      "lastmod": "2026-06-19T11:45:34+07:00",
+      "title": "Best Fantasy Manager Games for the FIFA World Cup 2026 — US Edition (DraftKings/FanDuel Crossover)",
+      "description": "",
+      "date_modified": "2026-06-19T11:45:34+07:00",
+      "date_published": "2026-05-14T00:00:00Z",
+      "fetched": true,
+      "section": "vergleiche"
+    },
+    {
+      "url": "https://tipmaster.net/en-us/guide/best-prediction-games-world-cup-2026/",
+      "lang": "en-us",
+      "lastmod": "2026-06-19T11:45:34+07:00",
+      "title": "Best Prediction Games for the FIFA World Cup 2026 — US Bracket Edition",
+      "description": "",
+      "date_modified": "2026-06-19T11:45:34+07:00",
+      "date_published": "2026-05-14T00:00:00Z",
+      "fetched": true,
+      "section": "vergleiche"
+    },
+    {
+      "url": "https://tipmaster.net/en-us/guide/best-video-games-world-cup-2026/",
+      "lang": "en-us",
+      "lastmod": "2026-06-16T04:44:22+07:00",
+      "title": "Best Video Games for the World Cup 2026 — US Picks (FIFA, EA Sports FC)",
+      "description": "",
+      "date_modified": "2026-06-16T04:44:22+07:00",
+      "date_published": "2026-05-25T00:00:00Z",
+      "fetched": true,
+      "section": "vergleiche"
+    },
+    {
+      "url": "https://tipmaster.net/en-us/guide/world-cup-2026-new-rules/",
+      "lang": "en-us",
+      "lastmod": "2026-06-16T04:44:22+07:00",
+      "title": "New rules for the 2026 World Cup: what's changing, and what it means for your predictions",
+      "description": "",
+      "date_modified": "2026-06-16T04:44:22+07:00",
+      "date_published": "2026-05-31T00:00:00Z",
+      "fetched": true,
+      "section": "hintergrund"
+    },
+    {
+      "url": "https://tipmaster.net/en-us/guide/office-football-pool-soccer-edition-running-a-world-cup-bracket/",
+      "lang": "en-us",
+      "lastmod": "2026-08-13T02:30:09+08:00",
+      "title": "Office Football Pool, Soccer Edition: Running a World Cup Bracket",
+      "description": "",
+      "date_modified": "2026-08-13T02:30:09+08:00",
+      "date_published": "2026-05-19T00:00:00Z",
+      "fetched": true,
+      "section": "turnierbaum"
+    },
+    {
+      "url": "https://tipmaster.net/en-us/guide/world-cup-2026-bracket-pdf/",
+      "lang": "en-us",
+      "lastmod": "2026-06-23T04:14:13+07:00",
+      "title": "World Cup 2026 Bracket PDF: Free Printable Bracket to Fill In",
+      "description": "",
+      "date_modified": "2026-06-23T04:14:13+07:00",
+      "date_published": "2026-06-23T00:00:00Z",
+      "fetched": true,
+      "section": "turnierbaum"
+    },
+    {
+      "url": "https://tipmaster.net/en-us/guide/world-cup-2026-bracket-print/",
+      "lang": "en-us",
+      "lastmod": "2026-06-23T05:35:50+07:00",
+      "title": "World Cup 2026 Bracket: How to Print It for Your Office Pool",
+      "description": "",
+      "date_modified": "2026-06-23T05:35:50+07:00",
+      "date_published": "2026-06-23T00:00:00Z",
+      "fetched": true,
+      "section": "turnierbaum"
+    },
+    {
+      "url": "https://tipmaster.net/en-us/guide/world-cup-2026-bracket/",
+      "lang": "en-us",
+      "lastmod": "2026-06-23T05:35:50+07:00",
+      "title": "World Cup 2026 Bracket: Interactive Knockout Tree from Round of 32 to the Final",
+      "description": "",
+      "date_modified": "2026-06-23T05:35:50+07:00",
+      "date_published": "2026-06-23T00:00:00Z",
+      "fetched": true,
+      "section": "turnierbaum"
+    },
+    {
+      "url": "https://tipmaster.net/en-us/guide/world-cup-2026-collectibles-panini/",
+      "lang": "en-us",
+      "lastmod": "2026-06-16T04:44:22+07:00",
+      "title": "World Cup 2026 Collectibles: Panini Album Guide for US Collectors (Host Country)",
+      "description": "",
+      "date_modified": "2026-06-16T04:44:22+07:00",
+      "date_published": "2026-05-14T00:00:00Z",
+      "fetched": true,
+      "section": "hintergrund"
+    },
+    {
+      "url": "https://tipmaster.net/en-us/guide/world-cup-2026-final-pick/",
+      "lang": "en-us",
+      "lastmod": "2026-06-23T05:35:50+07:00",
+      "title": "World Cup 2026 Final Pick: How to Call the July 19 Championship at MetLife",
+      "description": "",
+      "date_modified": "2026-06-23T05:35:50+07:00",
+      "date_published": "2026-06-23T00:00:00Z",
+      "fetched": true,
+      "section": "finale"
+    },
+    {
+      "url": "https://tipmaster.net/en-us/guide/world-cup-2026-host-cities-fan-experience-us-canada-mexico/",
+      "lang": "en-us",
+      "lastmod": "2026-06-16T04:44:22+07:00",
+      "title": "World Cup 2026 Host Cities: Fan Experience Across US, Canada and Mexico",
+      "description": "",
+      "date_modified": "2026-06-16T04:44:22+07:00",
+      "date_published": "2026-05-19T00:00:00Z",
+      "fetched": true,
+      "section": "hintergrund"
+    },
+    {
+      "url": "https://tipmaster.net/en-us/guide/world-cup-2026-prediction-hub/",
+      "lang": "en-us",
+      "lastmod": "2026-06-23T05:35:50+07:00",
+      "title": "World Cup 2026 Predictions: Round-by-Round Guide from the Round of 32 to the Final",
+      "description": "",
+      "date_modified": "2026-06-23T05:35:50+07:00",
+      "date_published": "2026-06-23T00:00:00Z",
+      "fetched": true,
+      "section": "tippspiel"
+    },
+    {
+      "url": "https://tipmaster.net/en-us/guide/world-cup-2026-quarterfinal-picks/",
+      "lang": "en-us",
+      "lastmod": "2026-06-23T05:35:50+07:00",
+      "title": "World Cup 2026 Quarterfinal Picks: How to Call the Round That Decides Office Pools",
+      "description": "",
+      "date_modified": "2026-06-23T05:35:50+07:00",
+      "date_published": "2026-06-23T00:00:00Z",
+      "fetched": true,
+      "section": "viertelfinale"
+    },
+    {
+      "url": "https://tipmaster.net/en-us/guide/world-cup-2026-round-of-16-picks/",
+      "lang": "en-us",
+      "lastmod": "2026-06-23T05:35:50+07:00",
+      "title": "World Cup 2026 Round of 16 Picks: How to Pick the Quarterfinal Qualifiers",
+      "description": "",
+      "date_modified": "2026-06-23T05:35:50+07:00",
+      "date_published": "2026-06-23T00:00:00Z",
+      "fetched": true,
+      "section": "achtelfinale"
+    },
+    {
+      "url": "https://tipmaster.net/en-us/guide/world-cup-2026-round-of-32-picks/",
+      "lang": "en-us",
+      "lastmod": "2026-06-23T05:35:50+07:00",
+      "title": "World Cup 2026 Round of 32 Picks: How to Pick the New Knockout Opener",
+      "description": "",
+      "date_modified": "2026-06-23T05:35:50+07:00",
+      "date_published": "2026-06-23T00:00:00Z",
+      "fetched": true,
+      "section": "sechzehntelfinale"
+    },
+    {
+      "url": "https://tipmaster.net/en-us/guide/world-cup-2026-semifinal-picks/",
+      "lang": "en-us",
+      "lastmod": "2026-06-23T05:35:50+07:00",
+      "title": "World Cup 2026 Semifinal Picks: How to Call the Last Four Teams",
+      "description": "",
+      "date_modified": "2026-06-23T05:35:50+07:00",
+      "date_published": "2026-06-23T00:00:00Z",
+      "fetched": true,
+      "section": "halbfinale"
+    }
+  ],
+  "excluded": [
+    {
+      "url": "https://tipmaster.net/en-us/guide/kalshi-referral-code-sign-up-bonus-world-cup-2026/",
+      "lang": "en-us"
+    },
+    {
+      "url": "https://tipmaster.net/en-us/guide/kalshi-vs-polymarket-world-cup/",
+      "lang": "en-us"
+    },
+    {
+      "url": "https://tipmaster.net/en-us/guide/prediction-markets-world-cup-2026-kalshi-polymarket/",
+      "lang": "en-us"
+    },
+    {
+      "url": "https://tipmaster.net/en-us/guide/world-cup-2026-prediction-markets-odds/",
+      "lang": "en-us"
+    }
+  ]
+}
