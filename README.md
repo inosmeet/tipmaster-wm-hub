@@ -1,6 +1,6 @@
 # TipMaster WM-2026 Hub (Prototyp)
 
-Eine statische, crawlbare deutsche Landingpage für die WM 2026 auf tipmaster.net, generiert aus TipMasters **eigenen Sitemaps**. Gebaut innerhalb eines 45-Minuten-Assessments.
+**English summary.** A static, crawlable German landing page for the 2026 World Cup on tipmaster.net, generated from TipMaster's own guide sitemaps. `build.py` reads the three sitemaps (151 URLs), keeps the 52 World Cup articles, drops 4 Kalshi/Polymarket referral pages (not licensed in Germany), fetches each article's real title and dates, groups them by knockout round and renders `index.html` plus a reusable `data/wm-hub.json`. The page states the final result, labels the tournament-time articles as archive, and points to what's next (Bundesliga tipping, the next Daily cup run, Women's World Cup 2027). A nightly GitHub Action rebuilds it. The page is German because the product card names the German-speaking market as primary and tipmaster.net defaults to `/de`. Built inside a 45-minute assessment; German copy should get a native-speaker pass before shipping.
 
 **Live:** https://inosmeet.github.io/tipmaster-wm-hub/
 
