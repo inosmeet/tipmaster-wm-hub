@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T09:21:36+00:00",
+  "generated_at": "2026-09-23T09:21:48+00:00",
   "source_sitemaps": {
     "de": "https://tipmaster.net/de/ratgeber/sitemap.xml",
     "en": "https://tipmaster.net/en/guide/sitemap.xml",
@@ -9,7 +9,7 @@
     "urls_scanned": 151,
     "world_cup_articles": 52,
     "excluded_referral_pages": 4,
-    "fetched_ok": 50,
+    "fetched_ok": 52,
     "newest_de_modification": "2026-09-19T01:14:08-04:00"
   },
   "final": {
@@ -250,12 +250,11 @@
       "url": "https://tipmaster.net/de/ratgeber/wm-2026-tippen/",
       "lang": "de",
       "lastmod": "2026-07-06T12:05:17+07:00",
-      "title": "Wm 2026 tippen",
+      "title": "WM 2026 tippen: Prognosen Runde für Runde, vom Sechzehntelfinale bis zum Finale",
       "description": "",
       "date_modified": "2026-07-06T12:05:17+07:00",
-      "date_published": null,
-      "fetched": false,
-      "error": "The read operation timed out",
+      "date_published": "2026-06-23T00:00:00Z",
+      "fetched": true,
       "section": "tippspiel"
     },
     {
@@ -268,18 +267,6 @@
       "date_published": "2026-06-13T00:00:00Z",
       "fetched": true,
       "section": "tippspiel"
-    },
-    {
-      "url": "https://tipmaster.net/de/ratgeber/wm-2026-turnierbaum/",
-      "lang": "de",
-      "lastmod": "2026-07-06T12:05:17+07:00",
-      "title": "Wm 2026 turnierbaum",
-      "description": "",
-      "date_modified": "2026-07-06T12:05:17+07:00",
-      "date_published": null,
-      "fetched": false,
-      "error": "The read operation timed out",
-      "section": "turnierbaum"
     },
     {
       "url": "https://tipmaster.net/de/ratgeber/wm-2026-turnierbaum-pdf/",
@@ -297,6 +284,17 @@
       "lang": "de",
       "lastmod": "2026-07-06T12:05:17+07:00",
       "title": "WM 2026 Turnierbaum zum Ausdrucken: K.-o.-Baum für Pinnwand & Büro",
+      "description": "",
+      "date_modified": "2026-07-06T12:05:17+07:00",
+      "date_published": "2026-06-23T00:00:00Z",
+      "fetched": true,
+      "section": "turnierbaum"
+    },
+    {
+      "url": "https://tipmaster.net/de/ratgeber/wm-2026-turnierbaum/",
+      "lang": "de",
+      "lastmod": "2026-07-06T12:05:17+07:00",
+      "title": "WM 2026 Turnierbaum: K.-o.-Baum von der Runde der 32 bis zum Finale",
       "description": "",
       "date_modified": "2026-07-06T12:05:17+07:00",
       "date_published": "2026-06-23T00:00:00Z",
