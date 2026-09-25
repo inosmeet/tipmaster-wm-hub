@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T09:22:18+00:00",
+  "generated_at": "2026-09-25T09:39:39+00:00",
   "source_sitemaps": {
     "de": "https://tipmaster.net/de/ratgeber/sitemap.xml",
     "en": "https://tipmaster.net/en/guide/sitemap.xml",
@@ -9,7 +9,7 @@
     "urls_scanned": 151,
     "world_cup_articles": 52,
     "excluded_referral_pages": 4,
-    "fetched_ok": 51,
+    "fetched_ok": 52,
     "newest_de_modification": "2026-09-19T01:14:08-04:00"
   },
   "final": {
@@ -525,12 +525,11 @@
       "url": "https://tipmaster.net/en-us/guide/world-cup-2026-bracket-pdf/",
       "lang": "en-us",
       "lastmod": "2026-06-23T04:14:13+07:00",
-      "title": "World cup 2026 bracket pdf",
+      "title": "World Cup 2026 Bracket PDF: Free Printable Bracket to Fill In",
       "description": "",
       "date_modified": "2026-06-23T04:14:13+07:00",
-      "date_published": null,
-      "fetched": false,
-      "error": "The read operation timed out",
+      "date_published": "2026-06-23T00:00:00Z",
+      "fetched": true,
       "section": "turnierbaum"
     },
     {
