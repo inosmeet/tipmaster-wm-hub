@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-09-25T09:39:39+00:00",
+  "generated_at": "2026-09-26T09:24:11+00:00",
   "source_sitemaps": {
     "de": "https://tipmaster.net/de/ratgeber/sitemap.xml",
     "en": "https://tipmaster.net/en/guide/sitemap.xml",
     "en-us": "https://tipmaster.net/en-us/guide/sitemap.xml"
   },
   "stats": {
-    "urls_scanned": 151,
-    "world_cup_articles": 52,
+    "urls_scanned": 143,
+    "world_cup_articles": 49,
     "excluded_referral_pages": 4,
-    "fetched_ok": 52,
+    "fetched_ok": 49,
     "newest_de_modification": "2026-09-19T01:14:08-04:00"
   },
   "final": {
@@ -368,39 +368,6 @@
       "section": "tippspiel"
     },
     {
-      "url": "https://tipmaster.net/en/guide/best-fantasy-manager-games-world-cup-2026/",
-      "lang": "en",
-      "lastmod": "2026-06-19T11:45:34+07:00",
-      "title": "Best Fantasy Manager Games for the FIFA World Cup 2026 — US Edition (DraftKings/FanDuel Crossover)",
-      "description": "",
-      "date_modified": "2026-06-19T11:45:34+07:00",
-      "date_published": "2026-05-14T00:00:00Z",
-      "fetched": true,
-      "section": "vergleiche"
-    },
-    {
-      "url": "https://tipmaster.net/en/guide/best-prediction-games-world-cup-2026/",
-      "lang": "en",
-      "lastmod": "2026-06-19T11:45:34+07:00",
-      "title": "Best Prediction Games for the FIFA World Cup 2026 — US Bracket Edition",
-      "description": "",
-      "date_modified": "2026-06-19T11:45:34+07:00",
-      "date_published": "2026-05-14T00:00:00Z",
-      "fetched": true,
-      "section": "vergleiche"
-    },
-    {
-      "url": "https://tipmaster.net/en/guide/world-cup-2026-collectibles-panini/",
-      "lang": "en",
-      "lastmod": "2026-09-15T04:30:47+02:00",
-      "title": "World Cup 2026 Collectibles: Panini Album Guide for US Collectors (Host Country)",
-      "description": "",
-      "date_modified": "2026-06-16T04:44:22+07:00",
-      "date_published": "2026-05-14T00:00:00Z",
-      "fetched": true,
-      "section": "hintergrund"
-    },
-    {
       "url": "https://tipmaster.net/en/guide/world-cup-2026-free-prediction-game/",
       "lang": "en",
       "lastmod": "2026-09-16T08:30:58+02:00",
@@ -414,10 +381,10 @@
     {
       "url": "https://tipmaster.net/en/guide/world-cup-2026-prediction-app/",
       "lang": "en",
-      "lastmod": "2026-06-16T04:44:22+07:00",
+      "lastmod": "2026-07-06T12:05:17+07:00",
       "title": "World Cup 2026 prediction app: do you even need one?",
       "description": "",
-      "date_modified": "2026-06-16T04:44:22+07:00",
+      "date_modified": "2026-07-06T12:05:17+07:00",
       "date_published": "2026-06-07T00:00:00Z",
       "fetched": true,
       "section": "tippspiel"
@@ -425,10 +392,10 @@
     {
       "url": "https://tipmaster.net/en/guide/world-cup-2026-prediction-game-office/",
       "lang": "en",
-      "lastmod": "2026-06-16T04:44:22+07:00",
+      "lastmod": "2026-07-06T12:05:17+07:00",
       "title": "World Cup 2026 prediction game for the office: free, no hassle",
       "description": "",
-      "date_modified": "2026-06-16T04:44:22+07:00",
+      "date_modified": "2026-07-06T12:05:17+07:00",
       "date_published": "2026-06-07T00:00:00Z",
       "fetched": true,
       "section": "tippspiel"
@@ -436,10 +403,10 @@
     {
       "url": "https://tipmaster.net/en/guide/world-cup-2026-prediction-game-with-friends/",
       "lang": "en",
-      "lastmod": "2026-06-16T04:44:22+07:00",
+      "lastmod": "2026-07-06T12:05:17+07:00",
       "title": "World Cup 2026 prediction game with friends: play together, free",
       "description": "",
-      "date_modified": "2026-06-16T04:44:22+07:00",
+      "date_modified": "2026-07-06T12:05:17+07:00",
       "date_published": "2026-06-07T00:00:00Z",
       "fetched": true,
       "section": "tippspiel"
@@ -447,10 +414,10 @@
     {
       "url": "https://tipmaster.net/en/guide/world-cup-2026-prediction-tips/",
       "lang": "en",
-      "lastmod": "2026-06-16T04:44:22+07:00",
+      "lastmod": "2026-07-06T12:05:17+07:00",
       "title": "World Cup 2026 prediction tips: strategy for winning the duel",
       "description": "",
-      "date_modified": "2026-06-16T04:44:22+07:00",
+      "date_modified": "2026-07-06T12:05:17+07:00",
       "date_published": "2026-06-07T00:00:00Z",
       "fetched": true,
       "section": "tippspiel"
@@ -458,10 +425,10 @@
     {
       "url": "https://tipmaster.net/en/guide/world-cup-2026-schedule-to-predict/",
       "lang": "en",
-      "lastmod": "2026-06-16T04:44:22+07:00",
+      "lastmod": "2026-07-06T12:05:17+07:00",
       "title": "World Cup 2026 schedule to predict: all 104 matches, predict along live",
       "description": "",
-      "date_modified": "2026-06-16T04:44:22+07:00",
+      "date_modified": "2026-07-06T12:05:17+07:00",
       "date_published": "2026-06-07T00:00:00Z",
       "fetched": true,
       "section": "turnierbaum"
