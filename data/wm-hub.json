@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-28T10:38:53+00:00",
+  "generated_at": "2026-10-29T10:56:21+00:00",
   "source_sitemaps": {
     "de": "https://tipmaster.net/de/ratgeber/sitemap.xml",
     "en": "https://tipmaster.net/en/guide/sitemap.xml",
     "en-us": "https://tipmaster.net/en-us/guide/sitemap.xml"
   },
   "stats": {
-    "urls_scanned": 95,
+    "urls_scanned": 97,
     "world_cup_articles": 0,
     "excluded_referral_pages": 0,
     "fetched_ok": 0,
